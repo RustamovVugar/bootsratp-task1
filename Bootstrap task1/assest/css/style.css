@@ -1,0 +1,91 @@
+.add{
+    border-top: 3px solid red;
+}
+.item1{
+    margin-left: 130px;
+    margin-right: 60px;
+    font-size: 30px;
+}
+.item2{
+    margin-right: 150px;
+    font: 25px;
+}
+.item2 i{
+    color: black;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.item3{
+    height:300px;
+    background-color: black;
+}
+.item4{
+    color:white;
+    font-size: 70px;
+    margin-top: 80px;
+}
+.item5{
+    color:grey;
+}
+.addition{
+    margin-top: 110px;
+    margin-left: 90px;
+    margin-right: 90px;
+    height:400px;
+}
+.item6{
+    border-bottom: 1px solid grey;
+    height:160px;
+    background-color:lightgrey;
+    text-align: center;
+    padding-top:50px ;
+    font-size: 30px;
+    color: lightslategrey;
+}
+.button{
+    margin-top: 70px;
+    text-align: center;
+    margin-left: 70px;
+    background-color: white;
+    height:30px;
+} 
+.button:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.star{
+    color:gold;
+    text-align: center;
+}
+.price{ 
+    text-align: center;
+}
+.addition-cart{
+    margin-top:50px ;
+}
+.main{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    text-decoration:bold ;
+    font-weight: 2000px;
+}
+.year{
+    height:200px;
+    margin-top: 120px;
+    color:white;
+    background-color: black;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 100px;
+
+}
+.sale{
+    border: 1px solid black;
+    height: 20px;
+    width: 50px;
+    font-size: 15px;
+    margin-left: 200px;
+
+}
